@@ -1,10 +1,10 @@
 {
   "name": "nodejs-prismaorm-crud-fundamentals",
   "version": "1.0.0",
-  "description": "Este projeto é um exemplo de CRUD utilizando os conhecimentos fundamentais do Prisma ORM.",
+  "description": "Este projeto é um exemplo de CRUD utilizando os conhecimentos fundamentais do PrismaORM.",
   "keywords": [
     "Node.js",
-    "Prisma ORM",
+    "PrismaORM",
     "CRUD",
     "Fundamentals"
   ],
