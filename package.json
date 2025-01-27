@@ -1,0 +1,44 @@
+{
+  "name": "nodejs-prismaorm-crud-fundamentals",
+  "version": "1.0.0",
+  "description": "Este projeto é um exemplo de CRUD utilizando os conhecimentos fundamentais do Prisma ORM.",
+  "keywords": [
+    "Node.js",
+    "Prisma ORM",
+    "CRUD",
+    "Fundamentals"
+  ],
+  "homepage": "https://github.com/gjoliveira963/Node.js-PrismaORM-CRUD-Fundamentals#readme",
+  "bugs": {
+    "url": "https://github.com/gjoliveira963/Node.js-PrismaORM-CRUD-Fundamentals/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gjoliveira963/Node.js-PrismaORM-CRUD-Fundamentals.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "G. J. Oliveira",
+    "email": "development@gjoliveira.dev"
+  },
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsx watch src/index.ts",
+    "serve": "node dist/index.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "prisma": "^6.2.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=10.0.0"
+  }
+}
