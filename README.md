@@ -1,6 +1,6 @@
-# CRUD com Prisma ORM
+# Node.js + PrismaORM + CRUD + Fundamentals
 
-Este projeto é um exemplo de CRUD utilizando o Prisma ORM. Ele demonstra como criar, ler, atualizar e deletar dados em um banco de dados relacional, além de explorar funcionalidades avançadas do Prisma. O projeto usa a biblioteca `@prisma/client` para interagir com o banco de dados.
+Este projeto é um exemplo de CRUD utilizando o PrismaORM. Ele demonstra como criar, ler, atualizar e deletar dados em um banco de dados relacional, além de explorar funcionalidades avançadas do Prisma. O projeto usa a biblioteca `@prisma/client` para interagir com o banco de dados.
 
 ## Estrutura do Banco de Dados
 
@@ -63,7 +63,7 @@ Após alterar o modelo `User` no arquivo `schema.prisma`, é necessário atualiz
 
    > **Atenção:** Este comando pode causar perda de dados. Use com cuidado.
 
-## CRUD
+## CRUD com PrismaORM
 
 As operações de CRUD foram implementadas no arquivo principal do projeto. Abaixo estão exemplos de cada operação:
 
@@ -160,18 +160,10 @@ Para executar o projeto e testar as operações CRUD, siga os passos:
 - Utilize validações no frontend/backend para evitar inconsistências nos dados.
 - Mantenha backups regulares do banco de dados.
 
-## Informações do Projeto
-
-- **Nome:** -
-- **Versão:** 1.0.0
-- **Licença:** MIT
-- **Autor:** G. J. Oliveira ([development@gjoliveira.dev](mailto:development@gjoliveira.dev))
-- **Repositório:** [GitHub](https://github.com/gjoliveira963/_)
-
 ## Conclusão
 
-Este projeto fornece uma base sólida para implementar operações de CRUD com o Prisma ORM. Explore as funcionalidades avançadas do Prisma para otimizar sua aplicação e simplificar a interação com o banco de dados.
+Este projeto fornece uma base sólida para implementar operações de CRUD com o PrismaORM. Explore as funcionalidades avançadas do Prisma para otimizar sua aplicação e simplificar a interação com o banco de dados.
 
 ---
 
-🚀 **Dica:** Personalize este projeto adicionando novas funcionalidades e explorando integrações com outras tecnologias!
+Personalize este projeto adicionando novas funcionalidades e explorando integrações com outras tecnologias!
