@@ -1,6 +1,6 @@
 # Node.js + PrismaORM + CRUD + Fundamentals
 
-Este projeto é um exemplo de CRUD utilizando o PrismaORM. Ele demonstra como criar, ler, atualizar e deletar dados em um banco de dados relacional, além de explorar funcionalidades avançadas do Prisma. O projeto usa a biblioteca `@prisma/client` para interagir com o banco de dados.
+Este projeto é um exemplo de CRUD utilizando os conhecimentos fundamentais do PrismaORM. Ele demonstra como criar, ler, atualizar e deletar dados em um banco de dados relacional, além de explorar funcionalidades avançadas do Prisma. O projeto usa a biblioteca `@prisma/client` para interagir com o banco de dados.
 
 ## Estrutura do Banco de Dados
 
