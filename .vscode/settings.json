@@ -6,6 +6,7 @@
     "postgresql",
     "prismaorm",
     "respawn",
+    "sgbd",
     "upserted",
     "usuario",
     "VARCHAR"
